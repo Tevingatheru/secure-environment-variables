@@ -1,7 +1,3 @@
-# Passing environment variable
-This project has greatly assisted me in understaning how 
-to set and interact with environment variables.
-
 # Instructions
 for Windows users got to 'Advanced system settings',
 then open 'Environment Variables' and set:
