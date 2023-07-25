@@ -1,3 +1,6 @@
+#Overview
+The program obtaina an environment variable and prints to screen.
+
 # Instructions
 for Windows users got to 'Advanced system settings',
 then open 'Environment Variables' and set:
